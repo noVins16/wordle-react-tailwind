@@ -13,7 +13,6 @@ const Modal = ({ resetGameFromModal, setOpenModal, openModal }) => {
                         <h3 className="text-xl font-medium text-stone-200 ">
                             success
                         </h3>
-
                     </div>
                     <div className="p-6 space-y-6">
                         <p className="text-base leading-relaxed text-stone-200 ">
